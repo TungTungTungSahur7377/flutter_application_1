@@ -1,16 +1,7 @@
-# flutter_application_1
+This is my first Flutter program. I did everything based on the instructions provided.
 
-A new Flutter project.
+This page was created based on the tutorial “https://www.youtube.com/watch?v=OmYL-VK75-o.” It was edited so that the basic structure is the same, but functions were added, such as a shopping cart that allows me to purchase products, add more items, or remove items directly from the cart, and a more professional touch with a more minimalist color palette. 
 
-## Getting Started
+Video of my page's functionality: 
+https://youtu.be/2KAg9BM-Yzk
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
